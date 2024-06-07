@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498223592598",
+    "project_id": "swetha-29c7a",
+    "storage_bucket": "swetha-29c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498223592598:android:f464b2aa3bfa521f3c3eb7",
+        "android_client_info": {
+          "package_name": "com.swe.swetha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498223592598-kashghskhi2fue1cu563ltvef2n87cqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swe.swetha",
+            "certificate_hash": "a1dbdb2206f35a715daab7d9d0c90852e51a9f00"
+          }
+        },
+        {
+          "client_id": "498223592598-2c37llm4mv2vqq1qdv1cdibvs0s4ggsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmAFJaFVkLw0ck4HoPyYd_XgsZs7uDzLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498223592598-2c37llm4mv2vqq1qdv1cdibvs0s4ggsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
